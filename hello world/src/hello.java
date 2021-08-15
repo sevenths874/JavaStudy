@@ -226,6 +226,7 @@ public class hello {
         System.out.println();
         System.out.println("xxxxxx");
         System.out.println("xxxxxxxxxx");
+        System.out.println("123456");
 
 
     }
