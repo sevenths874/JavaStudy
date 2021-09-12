@@ -238,6 +238,9 @@ public class hello {
         System.out.println("qweqweqw");
         System.out.println("pipip");
         System.out.println("ngnf");
+        if(true){
+            System.out.println("balabala");
+        }
 
     }
 }
