@@ -227,7 +227,7 @@ public class hello {
         //+++++++++++++++++++
         System.out.println("xxxxxx");
         System.out.println("xxxxxxxxxx");
-        System.out.println("0123456789101112");
+        System.out.println("012345678910111267575757");
         //=================================
         //******************
 
