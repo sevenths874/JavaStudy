@@ -244,8 +244,8 @@ public class hello {
             System.out.println("hahaha");
         }
         System.out.println("hehehehe");
-        int b = 222;
-        int c = 1111;
+        int b = 2;
+        int c = 1;
         if(b > c) {
             System.out.println("b>c");
         }
