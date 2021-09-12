@@ -238,7 +238,8 @@ public class hello {
         System.out.println("qweqweqw");
         System.out.println("pipip");
         System.out.println("ngnf");
-        if(true){
+        int a = 1;
+        if(a == 1){
             System.out.println("balabala");
             System.out.println("hahaha");
         }
