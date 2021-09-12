@@ -240,8 +240,9 @@ public class hello {
         System.out.println("ngnf");
         if(true){
             System.out.println("balabala");
+            System.out.println("hahaha");
         }
-
+        System.out.println("hehehehe");
     }
 }
 
